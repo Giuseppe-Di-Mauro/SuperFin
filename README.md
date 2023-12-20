@@ -1,2 +1,2 @@
 # SuperFin
-Caudal fin project of LabMacs
+MAXFISH project of LabMacs
