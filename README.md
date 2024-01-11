@@ -1,5 +1,6 @@
-![RF-3DModel](https://github.com/Giuseppe-Di-Mauro/SuperFin/assets/64470302/98758082-890e-4d02-965f-157a571eceb9)# SuperFin
-MAXFISH project of LabMacs
+![RF-3DModel](https://github.com/Giuseppe-Di-Mauro/SuperFin/assets/64470302/98758082-890e-4d02-965f-157a571eceb9)
+
+# SuperFin MAXFISH project of LabMacs
 
 This project is based on the in the laboratory Mechatronics laboratory course of the Master degree in Computer and Automation Engineering (<a href="https://guide.univpm.it/af.php?lang=lang-ita&af=175842>Marche Polytechnic University</a>)  
 
