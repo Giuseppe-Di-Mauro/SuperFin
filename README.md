@@ -2,7 +2,7 @@
 
 # SuperFin MAXFISH project of LabMacs
 
-This project is based on the in the laboratory Mechatronics laboratory course of the Master degree in Computer and Automation Engineering (<a href="https://guide.univpm.it/af.php?lang=lang-ita&af=175842>Marche Polytechnic University</a>)  
+This project is based on the in the laboratory Mechatronics laboratory course of the Master degree in Computer and Automation Engineering (<a href="https://guide.univpm.it/af.php?lang=lang-ita&af=175842"> Marche Polytechnic University</a>)  
 
 # Project description
 
