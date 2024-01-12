@@ -22,7 +22,7 @@ The application GUI handles:
 - Calculation of the mean and Standard Deviation of the trajectory
 - Starting the simulation of the tail kinematics on MATLAB.
 
-For details look at the [Report] (https://github.com/Giuseppe-Di-Mauro/SuperFin/Documentation/Relazione_SuperFin_AA2023-24.pdf](https://github.com/Giuseppe-Di-Mauro/SuperFin/blob/main/Documentation/Relazione_SuperFin_AA2023-24.pdf)
+For details look at the [Report](https://github.com/Giuseppe-Di-Mauro/SuperFin/Documentation/Relazione_SuperFin_AA2023-24.pdf](https://github.com/Giuseppe-Di-Mauro/SuperFin/blob/main/Documentation/Relazione_SuperFin_AA2023-24.pdf)
 
 ## 3D Model
 
