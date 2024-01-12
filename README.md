@@ -59,9 +59,9 @@ Trajectory of the Robotic Fish in the X-Y-Z plane:
 # Run the Project
 
 Open the folder "MAXFISH model".
-Se si vogliono cambiare i parametri della simulazione del pesce robotico "MAXFISH", aprire il file chiamato “data.xlsx”.
+If you want to change the parameters of the 'MAXFISH' robotic fish simulation, open the file called 'data.xlsx'.
 
-Successivamente, aprire il file "App.mlapp" per aprire l'applicazione GUI 
+After that, open the file 'App.mlapp' to open the GUI application.
 
 matlab command:
 
@@ -69,7 +69,7 @@ matlab command:
 open App.mlapp
 ```
 
-Se si vuole aprire direttamente il file della simulazione, aprire il file "RoboticFish_NGC.slx"
+If you want to open the simulation file directly, open the file "RoboticFish_NGC.slx".
 
 matlab command:
 
